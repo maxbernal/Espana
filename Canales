@@ -1,0 +1,578 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="ESPANGOL", -------------- |SP| SPAIN HD -----------
+http://rv.imax.re:80/307243143115/307243143115/79364
+
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="ESPANGOL", |SP| CORONA VIRUS INFO
+http://rv.imax.re:80/307243143115/307243143115/79363
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tveinternacional.png" group-title="ESPANGOL", |SP| TVE INTERNACIONAL HD
+http://rv.imax.re:80/307243143115/307243143115/79362
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tvela1hd.png" group-title="ESPANGOL", |SP| LA 1 HD
+http://rv.imax.re:80/307243143115/307243143115/79361
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tvela2hd.png" group-title="ESPANGOL", |SP| LA 2  HD
+http://rv.imax.re:80/307243143115/307243143115/79360
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/antena3hd.png" group-title="ESPANGOL", |SP| ANTENA 3 HD
+http://rv.imax.re:80/307243143115/307243143115/79359
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cuatrohd.png" group-title="ESPANGOL", |SP| CUATRO HD
+http://rv.imax.re:80/307243143115/307243143115/79358
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/telecincohd.png" group-title="ESPANGOL", |SP| TELECINCO HD
+http://rv.imax.re:80/307243143115/307243143115/79357
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lasextahd.png" group-title="ESPANGOL", |SP| LA SEXTA HD
+http://rv.imax.re:80/307243143115/307243143115/79356
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalsurandalucia.png" group-title="ESPANGOL", |SP| CANAL SUR A.
+http://rv.imax.re:80/307243143115/307243143115/79355
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/fdf.png" group-title="ESPANGOL", |SP| FDF
+http://rv.imax.re:80/307243143115/307243143115/79354
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/energy.png" group-title="ESPANGOL", |SP| ENERGY
+http://rv.imax.re:80/307243143115/307243143115/79353
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/divinity.png" group-title="ESPANGOL", |SP| DIVINITY
+http://rv.imax.re:80/307243143115/307243143115/79352
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mega.png" group-title="ESPANGOL", |SP| MEGA HD
+http://rv.imax.re:80/307243143115/307243143115/79351
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/bemad.png" group-title="ESPANGOL", |SP| BE MAD
+http://rv.imax.re:80/307243143115/307243143115/79350
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canal24horas.png" group-title="ESPANGOL", |SP| CANAL 24 HORAS
+http://rv.imax.re:80/307243143115/307243143115/79349
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cero.png" group-title="ESPANGOL", |SP| 0 HD
+http://rv.imax.re:80/307243143115/307243143115/79348
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/aragontvint.png" group-title="ESPANGOL", |SP| ARAGON TV INT
+http://rv.imax.re:80/307243143115/307243143115/79347
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nova.png" group-title="ESPANGOL", |SP| NOVA
+http://rv.imax.re:80/307243143115/307243143115/79346
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalorbe21.png" group-title="ESPANGOL", |SP| CANAL ORBE21
+http://rv.imax.re:80/307243143115/307243143115/79345
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/120px-Logo_TVE-24h.svg.png" group-title="ESPANGOL", |SP| 24 HORAS
+http://rv.imax.re:80/307243143115/307243143115/79344
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/galicia-55x54.gif" group-title="ESPANGOL", |SP| TVGA HD
+http://rv.imax.re:80/307243143115/307243143115/79343
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/vamos.png" group-title="ESPANGOL", |SP| #VAMOS HD
+http://rv.imax.re:80/307243143115/307243143115/79342
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/xtrm.png" group-title="ESPANGOL", |SP| XTRM HD
+http://rv.imax.re:80/307243143115/307243143115/79341
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/atreseries.png" group-title="ESPANGOL", |SP| ATRE SERIES HD
+http://rv.imax.re:80/307243143115/307243143115/79340
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/neox.png" group-title="ESPANGOL", |SP| NEOX
+http://rv.imax.re:80/307243143115/307243143115/79339
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/babytv.png" group-title="ESPANGOL", |SP| BABY TV
+http://rv.imax.re:80/307243143115/307243143115/79337
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/boing.png" group-title="ESPANGOL", |SP| BOING
+http://rv.imax.re:80/307243143115/307243143115/79336
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tveclan.png" group-title="ESPANGOL", |SP| CLAN TVE
+http://rv.imax.re:80/307243143115/307243143115/79335
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneychannel.png" group-title="ESPANGOL", |SP| DISNEY CH HD
+http://rv.imax.re:80/307243143115/307243143115/79334
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneyjunior.png" group-title="ESPANGOL", |SP| DISNEY JR
+http://rv.imax.re:80/307243143115/307243143115/79333
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneyplus.png" group-title="ESPANGOL", |SP| DISNEY+
+http://rv.imax.re:80/307243143115/307243143115/79332
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickjr.png" group-title="ESPANGOL", |SP| NICK JR
+http://rv.imax.re:80/307243143115/307243143115/79331
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeon.png" group-title="ESPANGOL", |SP| NICKELODEON  HD
+http://rv.imax.re:80/307243143115/307243143115/79330
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalpanda.png" group-title="ESPANGOL", |SP| CANAL PANDA
+http://rv.imax.re:80/307243143115/307243143115/79329
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/amc.png" group-title="ESPANGOL", |SP| AMC HD
+http://rv.imax.re:80/307243143115/307243143115/79326
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/axn.png" group-title="ESPANGOL", |SP| AXN
+http://rv.imax.re:80/307243143115/307243143115/79325
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/axnhd.png" group-title="ESPANGOL", |SP| AXN HD
+http://rv.imax.re:80/307243143115/307243143115/79324
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/axnwhitehd.png" group-title="ESPANGOL", |SP| AXN WHITE HD
+http://rv.imax.re:80/307243143115/307243143115/79323
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/calle13hd.png" group-title="ESPANGOL", |SP| CALLE 13 HD
+http://rv.imax.re:80/307243143115/307243143115/79322
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/comedycentralhd.png" group-title="ESPANGOL", |SP| COMEDY CENTRAL HD
+http://rv.imax.re:80/307243143115/307243143115/79321
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cosmo.png" group-title="ESPANGOL", |SP| COSMO HD
+http://rv.imax.re:80/307243143115/307243143115/79320
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/fox.png" group-title="ESPANGOL", |SP| FOX HD
+http://rv.imax.re:80/307243143115/307243143115/79319
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/foxlife.png" group-title="ESPANGOL", |SP| FOX LIFE HD
+http://rv.imax.re:80/307243143115/307243143115/79318
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/hollywood.png" group-title="ESPANGOL", |SP| HOLLYWOOD HD
+http://rv.imax.re:80/307243143115/307243143115/79317
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/paramountchannelhd.png" group-title="ESPANGOL", |SP| PARAMOUNT
+http://rv.imax.re:80/307243143115/307243143115/79316
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/sundancetv.png" group-title="ESPANGOL", |SP| SUNDANCE TV
+http://rv.imax.re:80/307243143115/307243143115/79315
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/syfy.png" group-title="ESPANGOL", |SP| SYFY HD
+http://rv.imax.re:80/307243143115/307243143115/79314
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tcm.png" group-title="ESPANGOL", |SP| TCM HD
+http://rv.imax.re:80/307243143115/307243143115/79313
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tnt.png" group-title="ESPANGOL", |SP| TNT HD
+http://rv.imax.re:80/307243143115/307243143115/79312
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/classicahd-phibruspel.png" group-title="ESPANGOL", |SP| CLASSICA
+http://rv.imax.re:80/307243143115/307243143115/79311
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/movistarligadecampeones.png" group-title="ESPANGOL", |SP| M.LCAMPEONES
+http://rv.imax.re:80/307243143115/307243143115/79309
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/laligatvbar.png" group-title="ESPANGOL", |SP| LALIGA TV BAR
+http://rv.imax.re:80/307243143115/307243143115/79308
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsportslaliga.png" group-title="ESPANGOL", |SP| BEIN LALIGA HD
+http://rv.imax.re:80/307243143115/307243143115/79306
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsportslaliga.png" group-title="ESPANGOL", |SP| BEIN LALIGA1 HD
+http://rv.imax.re:80/307243143115/307243143115/79305
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/eurosport1hd.png" group-title="ESPANGOL", |SP| EUROSPORT1 HD
+http://rv.imax.re:80/307243143115/307243143115/79304
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/eurosport1.png" group-title="ESPANGOL", |SP| EUROSPORT 1
+http://rv.imax.re:80/307243143115/307243143115/79303
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/eurosport2.png" group-title="ESPANGOL", |SP| EUROSPORT 2
+http://rv.imax.re:80/307243143115/307243143115/79302
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/gol.png" group-title="ESPANGOL", |SP| GOL
+http://rv.imax.re:80/307243143115/307243143115/79301
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/barcatv.png" group-title="ESPANGOL", |SP| BAR TV
+http://rv.imax.re:80/307243143115/307243143115/79300
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/realmadridtv.png" group-title="ESPANGOL", |SP| R. MADRID TV
+http://rv.imax.re:80/307243143115/307243143115/79299
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/torostv.png" group-title="ESPANGOL", |SP| TOROS HD
+http://rv.imax.re:80/307243143115/307243143115/79298
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/movistarformula1.png" group-title="ESPANGOL", |SP| M.FORMULA1 HD
+http://rv.imax.re:80/307243143115/307243143115/79297
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/movistargolf.png" group-title="ESPANGOL", |SP| M.GOLF HD
+http://rv.imax.re:80/307243143115/307243143115/79295
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/dazn1.png" group-title="ESPANGOL", |SP| DAZN 1 HD
+http://rv.imax.re:80/307243143115/307243143115/79293
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/dazn2.png" group-title="ESPANGOL", |SP| DAZN 2 HD
+http://rv.imax.re:80/307243143115/307243143115/79292
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/movistarlaliga1.png" group-title="ESPANGOL", |SP| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://rv.imax.re:80/307243143115/307243143115/79291
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/movistarlaliga2.png" group-title="ESPANGOL", |SP| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://rv.imax.re:80/307243143115/307243143115/79290
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/movistarlaliga3.png" group-title="ESPANGOL", |SP| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://rv.imax.re:80/307243143115/307243143115/79289
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/movistaraccion.png" group-title="ESPANGOL", |SP| M.ACCION HD
+http://rv.imax.re:80/307243143115/307243143115/79287
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/movistarcineespagnol.png" group-title="ESPANGOL", |SP| M. CINE ESPANOL
+http://rv.imax.re:80/307243143115/307243143115/79286
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/movistarcomedia.png" group-title="ESPANGOL", |SP| M. COMEDIA HD
+http://rv.imax.re:80/307243143115/307243143115/79285
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/movistardrama.png" group-title="ESPANGOL", |SP| M.DRAMA HD
+http://rv.imax.re:80/307243143115/307243143115/79284
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/movistarestrenos.png" group-title="ESPANGOL", |SP| M.ESTRENOS HD
+http://rv.imax.re:80/307243143115/307243143115/79283
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/movistarcinedocandroll.png" group-title="ESPANGOL", |SP| M.CINEDOC&ROLL
+http://rv.imax.re:80/307243143115/307243143115/79282
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/movistarcinedocandroll.png" group-title="ESPANGOL", |SP| M.CINEDOC&ROLL HD
+http://rv.imax.re:80/307243143115/307243143115/79281
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/movistarseries.png" group-title="ESPANGOL", |SP| M.SERIES HD
+http://rv.imax.re:80/307243143115/307243143115/79280
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/movistarseriesmania.png" group-title="ESPANGOL", |SP| M.SERIESMANIA HD
+http://rv.imax.re:80/307243143115/307243143115/79279
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/movistardeportes.png" group-title="ESPANGOL", |SP| M. DEPORTES HD
+http://rv.imax.re:80/307243143115/307243143115/79276
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teledeporte.png" group-title="ESPANGOL", |SP| TELEDEPORTE
+http://rv.imax.re:80/307243143115/307243143115/79275
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mezzo.png" group-title="ESPANGOL", |SP| MEZZO
+http://rv.imax.re:80/307243143115/307243143115/79274
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mezzolivehd.png" group-title="ESPANGOL", |SP| MEZZO LIVE HD
+http://rv.imax.re:80/307243143115/307243143115/79273
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtv.png" group-title="ESPANGOL", |SP| MTV
+http://rv.imax.re:80/307243143115/307243143115/79270
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtv.png" group-title="ESPANGOL", |SP| MTV ESPAÂ¹A
+http://rv.imax.re:80/307243143115/307243143115/79269
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtvdance.png" group-title="ESPANGOL", |SP| MTV DANCE
+http://rv.imax.re:80/307243143115/307243143115/79267
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/blaze.png" group-title="ESPANGOL", |SP| BLAZE
+http://rv.imax.re:80/307243143115/307243143115/79265
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalCocina_90x27.gif" group-title="ESPANGOL", |SP| CANAL COCINA
+http://rv.imax.re:80/307243143115/307243143115/79264
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/decasa_85x29.gif" group-title="ESPANGOL", |SP| CANAL DECASA
+http://rv.imax.re:80/307243143115/307243143115/79263
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/cazaYpesca_42x50.gif" group-title="ESPANGOL", |SP| CAZAYPESCA HD
+http://rv.imax.re:80/307243143115/307243143115/79262
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/crimen-investigacion-80x68.png" group-title="ESPANGOL", |SP| CRIMEN+INVES
+http://rv.imax.re:80/307243143115/307243143115/79261
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/Discovery-95x18.png" group-title="ESPANGOL", |SP| DISCOVERY
+http://rv.imax.re:80/307243143115/307243143115/79260
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalPlusHistoria_49x46.png" group-title="ESPANGOL", |SP| HISTORIA
+http://rv.imax.re:80/307243143115/307243143115/79259
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/iberalia-35x40.png" group-title="ESPANGOL", |SP| IBERALIA TV
+http://rv.imax.re:80/307243143115/307243143115/79258
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoWild_90x38.gif" group-title="ESPANGOL", |SP| NAT GEO WILD
+http://rv.imax.re:80/307243143115/307243143115/79256
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoWild_90x38.gif" group-title="ESPANGOL", |SP| NAT GEO WILD HD
+http://rv.imax.re:80/307243143115/307243143115/79255
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalPlusOdisea_41x46.png" group-title="ESPANGOL", |SP| CANAL ODISEA
+http://rv.imax.re:80/307243143115/307243143115/79254
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/viajar_85x31.png" group-title="ESPANGOL", |SP| VIAJAR HD
+http://rv.imax.re:80/307243143115/307243143115/79253
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/vh1_eu_80x31.png" group-title="ESPANGOL", |SP| VH1
+http://rv.imax.re:80/307243143115/307243143115/79252
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/us/fox-news-63x60.png" group-title="ESPANGOL", |SP| FOX NEWS
+http://rv.imax.re:80/307243143115/307243143115/79250
+
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="ESPANGOL", |SP|HEVC| CORONA VIRUS INFO
+http://rv.imax.re:80/307243143115/307243143115/79248
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/tve1_90x40.png" group-title="ESPANGOL", |SP|HEVC| LA 1 HD
+http://rv.imax.re:80/307243143115/307243143115/79246
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/tve2_90x40.png" group-title="ESPANGOL", |SP|HEVC| LA 2 HD
+http://rv.imax.re:80/307243143115/307243143115/79245
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/Antena3_62x55.png" group-title="ESPANGOL", |SP|HEVC| ANTENA 3 HD
+http://rv.imax.re:80/307243143115/307243143115/79244
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/Cuatro_52x52.png" group-title="ESPANGOL", |SP|HEVC| CUATRO HD
+http://rv.imax.re:80/307243143115/307243143115/79243
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/Telecinco_52x52.png" group-title="ESPANGOL", |SP|HEVC| TELECINCO HD
+http://rv.imax.re:80/307243143115/307243143115/79242
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/laSexta-47x55.png" group-title="ESPANGOL", |SP|HEVC| LA SEXTA HD
+http://rv.imax.re:80/307243143115/307243143115/79241
+
+#EXTINF:-1 tvg-logo="http://iptvforall.net/uploadlogo/prestige/Spain/canal_sur_andalucia_es.png" group-title="ESPANGOL", |SP|HEVC| CANAL SUR A.
+http://rv.imax.re:80/307243143115/307243143115/79240
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/nova-95x28.png" group-title="ESPANGOL", |SP|HEVC| NOVA
+http://rv.imax.re:80/307243143115/307243143115/79239
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/24horas_53x52.png" group-title="ESPANGOL", |SP|HEVC| CANAL 24 HORAS
+http://rv.imax.re:80/307243143115/307243143115/79238
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/120px-Canal_Orbe_21_logo.svg.png" group-title="ESPANGOL", |SP|HEVC| CANAL ORBE21
+http://rv.imax.re:80/307243143115/307243143115/79237
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/24horas_53x52.png" group-title="ESPANGOL", |SP|HEVC| 24 HORAS
+http://rv.imax.re:80/307243143115/307243143115/79236
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/galicia-55x54.gif" group-title="ESPANGOL", |SP|HEVC| TVGA HD
+http://rv.imax.re:80/307243143115/307243143115/79235
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/factoria_de_ficcion_41x45.png" group-title="ESPANGOL", |SP|HEVC| FDF
+http://rv.imax.re:80/307243143115/307243143115/79234
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/Clan_TVE_53x52.png" group-title="ESPANGOL", |SP|HEVC| CLAN TVE
+http://rv.imax.re:80/307243143115/307243143115/79233
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalHollywood_82x45.png" group-title="ESPANGOL", |SP|HEVC| HOLLYWOOD HD
+http://rv.imax.re:80/307243143115/307243143115/79232
+
+#EXTINF:-1 tvg-logo="http://iptvforall.net/uploadlogo/prestige/Spain/canal_iberalia.png" group-title="ESPANGOL", |SP|HEVC| IBERALIA TV
+http://rv.imax.re:80/307243143115/307243143115/79231
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/120px-MEGA.svg.png" group-title="ESPANGOL", |SP| MEGA HD [HEVC]
+http://rv.imax.re:80/307243143115/307243143115/79230
+
+#EXTINF:-1 tvg-logo="http://iptvforall.net/uploadlogo/prestige/Spain/xtrm_es.png" group-title="ESPANGOL", |SP|HEVC| XTRM HD
+http://rv.imax.re:80/307243143115/307243143115/79228
+
+#EXTINF:-1 tvg-logo="http://iptvforall.net/uploadlogo/prestige/Spain/atreseries-es.png" group-title="ESPANGOL", |SP|HEVC| ATRE SERIES HD
+http://rv.imax.re:80/307243143115/307243143115/79227
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/neox_80x21.gif" group-title="ESPANGOL", |SP|HEVC| NEOX
+http://rv.imax.re:80/307243143115/307243143115/79226
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/boing_50x50.png" group-title="ESPANGOL", |SP|HEVC| BOING
+http://rv.imax.re:80/307243143115/307243143115/79223
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canal-panda_95x43.png" group-title="ESPANGOL", |SP|HEVC| CANAL PANDA
+http://rv.imax.re:80/307243143115/307243143115/79222
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalPlusComedyCentral_46x46.png" group-title="ESPANGOL", |SP|HEVC| COMEDYCENTRAL HD
+http://rv.imax.re:80/307243143115/307243143115/79221
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/nl/disneyChannel-95x41.png" group-title="ESPANGOL", |SP|HEVC| DISNEY CH HD
+http://rv.imax.re:80/307243143115/307243143115/79220
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/de/DisneyJunior_95x34.png" group-title="ESPANGOL", |SP|HEVC| DISNEY JR
+http://rv.imax.re:80/307243143115/307243143115/79219
+
+#EXTINF:-1 tvg-logo="http://iptvforall.net/uploadlogo/prestige/Spain/disney--france-us-fr.png" group-title="ESPANGOL", |SP|HEVC| DISNEY+
+http://rv.imax.re:80/307243143115/307243143115/79218
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPANGOL", |SP|HEVC| NICK/MTV
+http://rv.imax.re:80/307243143115/307243143115/79216
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/de/nickelodeon_95x14.png" group-title="ESPANGOL", |SP|HEVC| NICKELODEON HD
+http://rv.imax.re:80/307243143115/307243143115/79215
+
+#EXTINF:-1 tvg-logo="http://iptvforall.net/uploadlogo/prestige/Spain/fox_global.png" group-title="ESPANGOL", |SP|HEVC| FOX HD
+http://rv.imax.re:80/307243143115/307243143115/79213
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalPlusFoxLife_90x34.png" group-title="ESPANGOL", |SP|HEVC| FOX LIFE HD
+http://rv.imax.re:80/307243143115/307243143115/79212
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/amc-85x40.png" group-title="ESPANGOL", |SP|HEVC| AMC HD
+http://rv.imax.re:80/307243143115/307243143115/79210
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/aragontv-65x64.gif" group-title="ESPANGOL", |SP|HEVC| ARAGON TV INT
+http://rv.imax.re:80/307243143115/307243143115/79209
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalPlusAxn_90x27.gif" group-title="ESPANGOL", |SP|HEVC| AXN
+http://rv.imax.re:80/307243143115/307243143115/79208
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalPlusAxn_90x27.gif" group-title="ESPANGOL", |SP|HEVC| AXN HD
+http://rv.imax.re:80/307243143115/307243143115/79207
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/us/axn-white-95x38.png" group-title="ESPANGOL", |SP|HEVC| AXN WHITE HD
+http://rv.imax.re:80/307243143115/307243143115/79206
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/syfy-51x55.png" group-title="ESPANGOL", |SP|HEVC| SYFY HD
+http://rv.imax.re:80/307243143115/307243143115/79205
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/Tcm_95x29.gif" group-title="ESPANGOL", |SP|HEVC| TCM HD
+http://rv.imax.re:80/307243143115/307243143115/79204
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalPlusTNT_46x46.gif" group-title="ESPANGOL", |SP|HEVC| TNT HD
+http://rv.imax.re:80/307243143115/307243143115/79203
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/beMad-60x51.png" group-title="ESPANGOL", |SP|HEVC| BE MAD
+http://rv.imax.re:80/307243143115/307243143115/79202
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalPlusCalle13_54x46.gif" group-title="ESPANGOL", |SP|HEVC| CALLE 13 HD
+http://rv.imax.re:80/307243143115/307243143115/79200
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalCocina_90x27.gif" group-title="ESPANGOL", |SP|HEVC| CANAL COCINA
+http://rv.imax.re:80/307243143115/307243143115/79199
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/decasa_85x29.gif" group-title="ESPANGOL", |SP|HEVC| CANAL DECASA
+http://rv.imax.re:80/307243143115/307243143115/79198
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/cazaYpesca_42x50.gif" group-title="ESPANGOL", |SP|HEVC| CAZAYPESCA HD
+http://rv.imax.re:80/307243143115/307243143115/79196
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalPlusCosmopolitan_85x41.png" group-title="ESPANGOL", |SP|HEVC| COSMO HD
+http://rv.imax.re:80/307243143115/307243143115/79194
+
+#EXTINF:-1 tvg-logo="http://iptvforall.net/uploadlogo/prestige/Spain/crimen-plus-investigacion-us.png" group-title="ESPANGOL", |SP|HEVC| CRIMEN INVES
+http://rv.imax.re:80/307243143115/307243143115/79193
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/divinity_38x55.png" group-title="ESPANGOL", |SP|HEVC| DIVINITY
+http://rv.imax.re:80/307243143115/307243143115/79192
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/energy_63x50.png" group-title="ESPANGOL", |SP|HEVC| ENERGY
+http://rv.imax.re:80/307243143115/307243143115/79191
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/ligaCampeones-95x37.png" group-title="ESPANGOL", |SP|HEVC| M.LCAMPEONES
+http://rv.imax.re:80/307243143115/307243143115/79189
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/mLaLiga-78x50.png" group-title="ESPANGOL", |SP|HEVC| LALIGA TV BAR
+http://rv.imax.re:80/307243143115/307243143115/79188
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/mLaliga1-95x28.png" group-title="ESPANGOL", |SP|HEVC| LALIGA TV BAR 1
+http://rv.imax.re:80/307243143115/307243143115/79187
+
+#EXTINF:-1 tvg-logo="http://uniquetv.xyz/beinlaliga.png" group-title="ESPANGOL", |SP|HEVC| BEIN LALIGA HD
+http://rv.imax.re:80/307243143115/307243143115/79186
+
+#EXTINF:-1 tvg-logo="https://img1.pnghut.com/t/18/25/12/nCGt6FhVbk/bein-sports-3-la-liga-television-channel-text.jpg" group-title="ESPANGOL", |SP|HEVC| BEIN LALIGA1 HD
+http://rv.imax.re:80/307243143115/307243143115/79185
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/eurosport-1-95x10.png" group-title="ESPANGOL", |SP|HEVC| EUROSPORT1 HD
+http://rv.imax.re:80/307243143115/307243143115/79184
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/eurosport-1-95x10.png" group-title="ESPANGOL", |SP|HEVC| EUROSPORT 1
+http://rv.imax.re:80/307243143115/307243143115/79183
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/eurosport-2-95x10.png" group-title="ESPANGOL", |SP|HEVC| EUROSPORT 2
+http://rv.imax.re:80/307243143115/307243143115/79182
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/gol-85x18.png" group-title="ESPANGOL", |SP|HEVC| GOL
+http://rv.imax.re:80/307243143115/307243143115/79181
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/barcaTV_95x17.gif" group-title="ESPANGOL", |SP|HEVC| BAR TV
+http://rv.imax.re:80/307243143115/307243143115/79180
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/realMadridTV_95x48.gif" group-title="ESPANGOL", |SP|HEVC| R.MADRID TV
+http://rv.imax.re:80/307243143115/307243143115/79179
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/toros-95x40.png" group-title="ESPANGOL", |SP|HEVC| TOROS HD
+http://rv.imax.re:80/307243143115/307243143115/79178
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/movistarF1-95x15.png" group-title="ESPANGOL", |SP|HEVC| M.FORMULA1 HD
+http://rv.imax.re:80/307243143115/307243143115/79177
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/movistarF1-95x15.png" group-title="ESPANGOL", |SP|HEVC| M.FORMULA1
+http://rv.imax.re:80/307243143115/307243143115/79176
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/mgolf-95x40.png" group-title="ESPANGOL", |SP|HEVC| M.GOLF HD
+http://rv.imax.re:80/307243143115/307243143115/79175
+
+#EXTINF:-1 tvg-logo="http://uniquetv.xyz/dazn1hd.png" group-title="ESPANGOL", |SP|HEVC| DAZN 1 HD
+http://rv.imax.re:80/307243143115/307243143115/79173
+
+#EXTINF:-1 tvg-logo="http://uniquetv.xyz/dazn2hd.png" group-title="ESPANGOL", |SP|HEVC| DAZN 2 HD
+http://rv.imax.re:80/307243143115/307243143115/79172
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/mLaliga1-95x28.png" group-title="ESPANGOL", |SP|HEVC| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://rv.imax.re:80/307243143115/307243143115/79171
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/mLaLiga2-85x50.png" group-title="ESPANGOL", |SP|HEVC| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://rv.imax.re:80/307243143115/307243143115/79170
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/mLaLiga3-85x50.png" group-title="ESPANGOL", |SP|HEVC| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://rv.imax.re:80/307243143115/307243143115/79169
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/maccion-95x32.png" group-title="ESPANGOL", |SP|HEVC| M.ACCION HD
+http://rv.imax.re:80/307243143115/307243143115/79167
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/mcineegne-95x33.png" group-title="ESPANGOL", |SP|HEVC| M.CINE ESPANOL
+http://rv.imax.re:80/307243143115/307243143115/79166
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/mcomedia-95x27.png" group-title="ESPANGOL", |SP|HEVC| M.COMEDIA HD
+http://rv.imax.re:80/307243143115/307243143115/79165
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/mdrama-95x33.png" group-title="ESPANGOL", |SP|HEVC| M.DRAMA HD
+http://rv.imax.re:80/307243143115/307243143115/79164
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/mEstrenos-95x28.png" group-title="ESPANGOL", |SP|HEVC| M.ESTRENOS HD
+http://rv.imax.re:80/307243143115/307243143115/79163
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/mcinedocroll-95x22.png" group-title="ESPANGOL", |SP|HEVC| M.CINEDOC&ROLL
+http://rv.imax.re:80/307243143115/307243143115/79162
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/mcinedocroll-95x22.png" group-title="ESPANGOL", |SP|HEVC| M.CINEDOC&ROLL HD
+http://rv.imax.re:80/307243143115/307243143115/79161
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/mseries-95x35.png" group-title="ESPANGOL", |SP|HEVC| M.SERIES HD
+http://rv.imax.re:80/307243143115/307243143115/79160
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/mseriesmania-95x23.png" group-title="ESPANGOL", |SP|HEVC| M.SERIESMANIA HD
+http://rv.imax.re:80/307243143115/307243143115/79159
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/mdeportes-95x28.png" group-title="ESPANGOL", |SP|HEVC| M. DEPORTES HD
+http://rv.imax.re:80/307243143115/307243143115/79157
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/mezzo_live_hd_95x39.png" group-title="ESPANGOL", |SP|HEVC| MEZZO LIVE HD
+http://rv.imax.re:80/307243143115/307243143115/79153
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalPlusMTV_57x35.png" group-title="ESPANGOL", |SP|HEVC| MTV
+http://rv.imax.re:80/307243143115/307243143115/79150
+
+#EXTINF:-1 tvg-logo="https://www.brandeps.com/logo-download/M/MTV-Dance-logo-vector-01.svg" group-title="ESPANGOL", |SP|HEVC| MTV DANCE
+http://rv.imax.re:80/307243143115/307243143115/79149
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalPlusMTV_57x35.png" group-title="ESPANGOL", |SP|HEVC| MTV ESPAÂ¹A
+http://rv.imax.re:80/307243143115/307243143115/79148
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/sundance-95x48.gif" group-title="ESPANGOL", |SP|HEVC| SUNDANCE TV
+http://rv.imax.re:80/307243143115/307243143115/79146
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/Discovery-95x18.png" group-title="ESPANGOL", |SP|HEVC| DISCOVERY
+http://rv.imax.re:80/307243143115/307243143115/79144
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoChannel_95x37.gif" group-title="ESPANGOL", |SP|HEVC| NAT GEO HD
+http://rv.imax.re:80/307243143115/307243143115/79143
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoWild_90x38.gif" group-title="ESPANGOL", |SP|HEVC| NAT GEO WILD
+http://rv.imax.re:80/307243143115/307243143115/79142
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoWild_90x38.gif" group-title="ESPANGOL", |SP|HEVC| NAT GEO WILD HD
+http://rv.imax.re:80/307243143115/307243143115/79141
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/paramount_channel_55x55.png" group-title="ESPANGOL", |SP|HEVC| PARAMOUNT
+http://rv.imax.re:80/307243143115/307243143115/79140
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/vh1_eu_80x31.png" group-title="ESPANGOL", |SP|HEVC| VH1
+http://rv.imax.re:80/307243143115/307243143115/79139
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/viajar_85x31.png" group-title="ESPANGOL", |SP|HEVC| VIAJAR HD
+http://rv.imax.re:80/307243143115/307243143115/79138
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/es/canalPlusHistoria_49x46.png" group-title="ESPANGOL", |SP|HEVC| HISTORIA
+http://rv.imax.re:80/307243143115/307243143115/79137
+
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/us/fox-news-63x60.png" group-title="ESPANGOL", |SP|HEVC| FOX NEWS
+http://rv.imax.re:80/307243143115/307243143115/79135
+
